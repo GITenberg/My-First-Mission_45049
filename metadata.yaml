@@ -1,0 +1,31 @@
+_repo: My-First-Mission_45049
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cannon, George Q. (George Quayle)
+    aliases:
+    - Cannon, G. Q. (George Quayle)
+    - Cannon, George Quayle
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '43048'
+    url: http://www.gutenberg.org/2009/agents/43048
+description: ''
+gutenberg_bookshelf: Latter Day Saints
+gutenberg_issued: '2014-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- Hawaii'
+- !lcc 'BX'
+- !lcsh 'Mormon Church'
+title: My First Mission
+url: http://www.gutenberg.org/ebooks/45049
